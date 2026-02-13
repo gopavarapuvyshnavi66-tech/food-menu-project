@@ -1,0 +1,30 @@
+.bg{
+    background-image: url("https://t4.ftcdn.net/jpg/02/92/20/37/360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+   
+}
+.logo{
+    height:100px;
+    width:100px;
+}
+.title{
+    color:crimson;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:60px;
+}
+.caption{
+    color:white;
+}
+.button{
+    
+    border-width:0px;
+    background-color: aquamarine;
+    color:#004d4d;
+    border-radius: 10px;
+    height:30px;
+}
+

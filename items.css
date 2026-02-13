@@ -1,0 +1,19 @@
+.item{
+    border-radius:10px;
+    
+    height:180px;
+    width:300px;
+    color:#b5c99a;
+}
+.img{
+    height:90px;
+    width:90px
+}
+.button{
+    
+    border-width:0px;
+    background-color: rgb(209, 214, 212);
+    color:#004d4d;
+    border-radius: 10px;
+    height:30px;
+}
